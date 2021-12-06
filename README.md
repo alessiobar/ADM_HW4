@@ -6,4 +6,4 @@ This repository contains the jupyter notebook.
 
 Course: Algorithmic Methods of Data Mining and Laboratory
 
-Group 24: Riccardo Agabiti, Adilet Karim, Aru Kakibay, Alessio Barboni 
+Group 24: Riccardo Agabiti, Adilet Karim, Aruzhan Kakibay, Alessio Barboni 
