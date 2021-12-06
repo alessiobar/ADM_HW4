@@ -2,7 +2,7 @@
 
 This repository contains the jupyter notebook.
 
-`main.ipynb`contains the notebook with the Python code.
+`main.ipynb` contains the notebook with the Python code.
 
 Course: Algorithmic Methods of Data Mining and Laboratory
 
